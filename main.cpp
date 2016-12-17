@@ -60,6 +60,9 @@ int print_intervals(vector<Interval>& iv){
 }
 
 int print_visual_intervals(vector<Interval>& iv){
+	//int min = iv.begin().begin;
+	//int max = max_element(iv.begin().end,iv.end().end);
+	//cout << "MIN " << min << "\tMax " << max << endl; 
 	return SUCCESS;
 }
 
