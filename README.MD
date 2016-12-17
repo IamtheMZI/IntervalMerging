@@ -1,1 +1,2 @@
 Interval Merging Algorithm
+
